@@ -12,6 +12,10 @@
 
 * Learn openGl系列 （ https://learnopengl.com/Introduction ）
 
+* OGLdev:modern opengl tutorial ( http://ogldev.atspace.co.uk )
+
+* Mathematics and Physics for Computer Graphics ( http://www.scratchapixel.com )没写完，随便看看
+
 * The Nature of Code ( http://natureofcode.com )
 
 * Virtual Globe (http://www.virtualglobebook.com/) Cesium出的一本书，讲述地理相关可视化算法
@@ -25,9 +29,11 @@
 
 * webGL做风图 （https://medium.com/m/global-identity?redirectUrl=https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f）（http://uber.github.io/deck.gl/blog/2017/wind-map）
 
-
-
 * Fog ( http://www.ozone3d.net/tutorials/glsl_fog/index.php )
+
+* 风格化渲染,sketch rendering ( http://www.floored.com/blog/2014sketch-rendering/ )
+
+* Fluid Simulation （ https://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-1/ ）
 
 
 
@@ -40,6 +46,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Florian Boesch：tutorial里提到过的advaned webGL的作者，blog里料很足，但好像不更新了，sad ( http://codeflow.org ）
 
+* Daniel Sýkora：了不起的图形学大神，某年siggraph上的人气论文StyLit就出自他手 ( http://dcgi.fel.cvut.cz/home/sykorad/ )
+
 
 ## part4: Labs
 
@@ -50,6 +58,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Proland (http://proland.inrialpes.fr/index.html)视觉效果和性能均超级震撼的3D虚拟地球引擎，论文集非常非常值得一看
 
 * HDR和Tone Mapping （ http://www.cs.utah.edu/~reinhard/cdrom/tonemap.pdf ）
+
+* StyLit: Illumination-Guided Example-Based Stylization of 3D Renderings  (http://dcgi.fel.cvut.cz/home/sykorad/stylit.html) 将纸上作画风格实时传递给模型，准备复现
 
 
 
