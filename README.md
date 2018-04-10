@@ -55,7 +55,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 ## part5: 论文
 
-* Proland (http://proland.inrialpes.fr/index.html)视觉效果和性能均超级震撼的3D虚拟地球引擎，论文集非常非常值得一看
+* Proland ( http://proland.inrialpes.fr/index.html ) 视觉效果和性能均超级震撼的3D虚拟地球引擎，论文集非常非常值得一看
 
 * HDR和Tone Mapping （ http://www.cs.utah.edu/~reinhard/cdrom/tonemap.pdf ）
 
