@@ -27,7 +27,7 @@
 * Virtual Globe (http://www.virtualglobebook.com/) Cesium出的一本书，讲述地理相关可视化算法
 
 
-## part2: tutorial类
+## Part2: tutorial类
 
 * Advanced WebGl ( http://codeflow.org/entries/2011/apr/11/advanced-webgl-part-1/ ) 如标题—advanced，现在看也不过时
 
@@ -47,7 +47,7 @@
 
 
 
-## part3: 那些大神们
+## Part3: 那些大神们
 
 * Íñigo Quílez，不把他放在第一个要被雷劈，shadertoy + sdf，引导我走上shader之路的唯一真神 ( http://iquilezles.org/index.html )
 
@@ -63,13 +63,13 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Daniel Sýkora：了不起的图形学大神，某年siggraph上的人气论文StyLit就出自他手 ( http://dcgi.fel.cvut.cz/home/sykorad/ )
 
 
-## part4: Labs
+## Part4: Labs
 
 * 哥伦比亚大学 computer vision lab, 兼做CG和CV （ http://www.cs.columbia.edu/CAVE/projects/ ）
 
 * stanford physbam, 流体模拟 ( http://physbam.stanford.edu )
 
-## part5: 论文
+## Part5: 论文
 
 * Proland ( http://proland.inrialpes.fr/index.html ) 视觉效果和性能均超级震撼的3D虚拟地球引擎，论文集非常非常值得一看
 
