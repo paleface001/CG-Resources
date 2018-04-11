@@ -1,4 +1,4 @@
-# webglSources
+# Computer Graphics Resources
 
 图形学是我初心中的初心 ~ ~
 
@@ -30,6 +30,8 @@
 ## part2: tutorial类
 
 * Advanced WebGl ( http://codeflow.org/entries/2011/apr/11/advanced-webgl-part-1/ ) 如标题—advanced，现在看也不过时
+
+* SDF & Raymarching ( https://www.alanzucconi.com/2016/07/01/signed-distance-functions/ ) ( http://flafla2.github.io/2016/10/01/raymarching.html ) ( http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/ ) ( http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6392/pdf/imm6392.pdf ) 
 
 * glsl做图像处理（https://www.objc.io/issues/21-camera-and-photos/gpu-accelerated-machine-vision/）
 
