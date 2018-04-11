@@ -14,6 +14,8 @@
 
 * OGLdev:modern opengl tutorial ( http://ogldev.atspace.co.uk )
 
+* Unity C# Tutorials ( http://catlikecoding.com/unity/tutorials/ ) 基础概念讲的很清楚，也有吸引人的亮点，对我帮助很大
+
 * Mathematics and Physics for Computer Graphics ( http://www.scratchapixel.com )没写完，随便看看
 
 * 3D Game Engine Programming (  https://www.3dgep.com )
@@ -43,6 +45,10 @@
 
 ## part3: 那些大神们
 
+* Íñigo Quílez，不把他放在第一个要被雷劈，shadertoy + sdf，引导我走上shader之路的唯一真神 ( http://iquilezles.org/index.html )
+
+* Amit Patel：Red Blob Games，主打游戏相关图形学，因为各种各样的原因用到很多 ( https://www.redblobgames.com )
+
 * Lin Yiwen: 一位坐标伦敦的台湾大神，作品都是基于自己写的引擎Alfrid,效果赞，而且很有想象力，技术博客也值得一看。（作品集：
 http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：http://blog.bongiovi.tw）
 
@@ -57,6 +63,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * 哥伦比亚大学 computer vision lab, 兼做CG和CV （ http://www.cs.columbia.edu/CAVE/projects/ ）
 
+* stanford physbam, 流体模拟 ( http://physbam.stanford.edu )
+
 ## part5: 论文
 
 * Proland ( http://proland.inrialpes.fr/index.html ) 视觉效果和性能均超级震撼的3D虚拟地球引擎，论文集非常非常值得一看
@@ -64,6 +72,10 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * HDR和Tone Mapping （ http://www.cs.utah.edu/~reinhard/cdrom/tonemap.pdf ）
 
 * StyLit: Illumination-Guided Example-Based Stylization of 3D Renderings  (http://dcgi.fel.cvut.cz/home/sykorad/stylit.html) 将纸上作画风格实时传递给模型，准备复现
+
+* 风格化渲染：水墨风格 （ https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1784&context=open_access_theses ）
+
+#### 还有一些论文在硬盘上，稍后整理
 
 
 
