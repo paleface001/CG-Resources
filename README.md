@@ -33,6 +33,8 @@
 
 * SDF & Raymarching ( https://www.alanzucconi.com/2016/07/01/signed-distance-functions/ ) ( http://flafla2.github.io/2016/10/01/raymarching.html ) ( http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/ ) ( http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/6392/pdf/imm6392.pdf ) ( http://9bitscience.blogspot.tw/2013/07/raymarching-distance-fields_14.html?m=1 )
 
+* noise相关，libnoise，概念讲解的好 （ http://libnoise.sourceforge.net/coherentnoise/index.html ）
+
 * glsl做图像处理（https://www.objc.io/issues/21-camera-and-photos/gpu-accelerated-machine-vision/）
 
 * webGL做风图 （https://medium.com/m/global-identity?redirectUrl=https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f）（http://uber.github.io/deck.gl/blog/2017/wind-map）
