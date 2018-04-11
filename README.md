@@ -16,6 +16,10 @@
 
 * Mathematics and Physics for Computer Graphics ( http://www.scratchapixel.com )没写完，随便看看
 
+* 3D Game Engine Programming (  https://www.3dgep.com )
+
+* Physically Based Animation for Computer Graphics  ( http://www.cs.cornell.edu/courses/cs5643/2015sp/ ) 康奈尔大学的一个课程，值得注意的是supplemental materials
+
 * The Nature of Code ( http://natureofcode.com )
 
 * Virtual Globe (http://www.virtualglobebook.com/) Cesium出的一本书，讲述地理相关可视化算法
