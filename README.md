@@ -12,6 +12,8 @@
 
 * Learn openGl系列 （ https://learnopengl.com/Introduction ）
 
+* learn webgl ( http://learnwebgl.brown37.net/index.html )
+
 * WebGL Fundamentals ( https://webglfundamentals.org/ ) shader装配和管理的部分可以着重看下
 
 * OGLdev:modern opengl tutorial ( http://ogldev.atspace.co.uk )
