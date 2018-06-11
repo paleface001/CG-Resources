@@ -85,6 +85,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 #### 还有一些论文在硬盘上，稍后整理
 
+## Part6: Effects
 
+* ITO World: 地理空间数据可视化，早晚要用shader实现这样的效果 ( http://www.itoworld.com/design-services/ )
 
 
