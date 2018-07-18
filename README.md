@@ -66,7 +66,9 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Daniel Sýkora：了不起的图形学大神，某年siggraph上的人气论文StyLit就出自他手 ( http://dcgi.fel.cvut.cz/home/sykorad/ )
 
-* candycat:如果说lupi是可视化领域的女神，那candycat必然是我在渲染领域的女神了 ( http://candycat1992.github.io/ )
+* candycat: 如果说lupi是可视化领域的女神，那candycat必然是我在渲染领域的女神了 ( http://candycat1992.github.io/ )
+
+* simo: 大神，一个复刻荒野之息特效的大神！！ 大神请跟我结婚！ （ https://simonschreibt.de/ ）
 
 
 ## Part4: Labs
