@@ -72,6 +72,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * simo: 大神，一个复刻荒野之息特效的大神！！ 大神请跟我结婚！ （ https://simonschreibt.de/ ）
 
+* Joel Simon：用webgl做生成艺术的大神，结合L-system的项目值得关注  (http://www.joelsimon.net/)
+
 
 ## Part4: Labs
 
