@@ -4,11 +4,13 @@
 
 ## Part 1: 教程类
 
-* 大名鼎鼎的GPU GEMS系列 （https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html）
+* 大名鼎鼎的GPU GEMS系列 （ https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html ）
+
+* Learning Modern 3D Graphics Programming ( https://alfonse.bitbucket.io/oldtut/index.html )  讲解的比较深
 
 * the book of shaders ( http://thebookofshaders.com/ )
 
-* Lode's Computer Graphics Tutorial (http://lodev.org/cgtutor/index.html） 之前搜noise\turbulence找到的，讲解还算清晰
+* Lode's Computer Graphics Tutorial (http://lodev.org/cgtutor/index.html ） 之前搜noise\turbulence找到的，讲解还算清晰
 
 * Learn openGl系列 （ https://learnopengl.com/Introduction ）
 
