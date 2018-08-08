@@ -93,6 +93,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * 风格化渲染：水墨风格 （ https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1784&context=open_access_theses ）
 
+* Realtime Procedural Terrain Generation （ http://web.mit.edu/cesium/Public/terrain.pdf ）
+
 #### 还有一些论文在硬盘上，稍后整理
 
 ## Part6: Effects
