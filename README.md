@@ -53,6 +53,8 @@
 
 * Fluid Simulation （ https://software.intel.com/en-us/articles/fluid-simulation-for-video-games-part-1/ ）
 
+* Terrain Generation with Diamond Square （ http://stevelosh.com/blog/2016/06/diamond-square/ ）
+
 
 
 ## Part3: 那些大神们
