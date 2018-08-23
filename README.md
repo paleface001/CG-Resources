@@ -55,6 +55,8 @@
 
 * Terrain Generation with Diamond Square （ http://stevelosh.com/blog/2016/06/diamond-square/ ）
 
+* 云海生成算法：半透明でモコモコとした雲海を生み出すために （ https://www.famitsu.com/news/201808/23162812.html ）
+
 
 
 ## Part3: 那些大神们
