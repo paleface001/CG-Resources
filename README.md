@@ -106,3 +106,13 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * ITO World: 地理空间数据可视化，早晚要用shader实现这样的效果 ( http://www.itoworld.com/design-services/ )
 
 
+## Part 5: 2D图形 （再不复习就忘光了）
+
+* link的几种形式 （ horizontal, vertical, radial)
+其实也就是我们的老熟人diagnal
+( https://github.com/d3/d3-shape/blob/master/README.md#_link )
+( https://github.com/d3/d3-shape/blob/master/src/link/index.js#L74 )
+
+
+
+
