@@ -57,6 +57,8 @@
 
 * 云海生成算法：半透明でモコモコとした雲海を生み出すために （ https://www.famitsu.com/news/201808/23162812.html ）
 
+* lowpoly water ( https://www.youtube.com/watch?v=5yhDb9dzJ58 )
+
 
 
 ## Part3: 那些大神们
@@ -79,6 +81,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * simo: 大神，一个复刻荒野之息特效的大神！！ 大神请跟我结婚！ （ https://simonschreibt.de/ ）
 
 * Joel Simon：用webgl做生成艺术的大神，结合L-system的项目值得关注  (http://www.joelsimon.net/)
+
+* Scott Holzknecht: lowpoly,风格化 （ https://www.scottcodes.com/ ）
 
 
 ## Part4: Labs
