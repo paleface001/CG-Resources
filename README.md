@@ -57,11 +57,6 @@
 
 * 云海生成算法：半透明でモコモコとした雲海を生み出すために （ https://www.famitsu.com/news/201808/23162812.html ）
 
-* lowpoly water ( https://www.youtube.com/watch?v=5yhDb9dzJ58 )
-
-* fluid similation  ( http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/ )
-
-
 
 ## Part3: 那些大神们
 
@@ -118,6 +113,17 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 其实也就是我们的老熟人diagnal
 ( https://github.com/d3/d3-shape/blob/master/README.md#_link )
 ( https://github.com/d3/d3-shape/blob/master/src/link/index.js#L74 )
+
+
+## 水体渲染专场
+
+* lowpoly water ( https://www.youtube.com/watch?v=5yhDb9dzJ58 )
+
+* fluid similation  ( http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/ )
+
+* Reflective water with GLSL （ http://khayyam.kaplinski.com/2011/09/reflective-water-with-glsl-part-i.html ）
+
+* Towards Real-Time Visual Simulation of Water Surfaces （ https://pdfs.semanticscholar.org/59da/08b0b5886ed80add50353873d55a10e86ee5.pdf  ）
 
 
 
