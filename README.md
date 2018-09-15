@@ -59,6 +59,8 @@
 
 * lowpoly water ( https://www.youtube.com/watch?v=5yhDb9dzJ58 )
 
+* fluid similation  ( http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/ )
+
 
 
 ## Part3: 那些大神们
