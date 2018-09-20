@@ -16,6 +16,8 @@
 
 * learn webgl ( http://learnwebgl.brown37.net/index.html )
 
+* Learn OpenGL ES ( http://www.learnopengles.com/tag/perspective-divide/ ) 找perspective-divide找到的，讲的很清楚 
+
 * WebGL Fundamentals ( https://webglfundamentals.org/ ) shader装配和管理的部分可以着重看下
 
 * OGLdev:modern opengl tutorial ( http://ogldev.atspace.co.uk )
