@@ -128,7 +128,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Towards Real-Time Visual Simulation of Water Surfaces （ https://pdfs.semanticscholar.org/59da/08b0b5886ed80add50353873d55a10e86ee5.pdf  ）
 
-
+* Gerstner Wave （ https://github.com/ludwigpe/WaterSimulation/tree/master/Assets/Shaders ）
 
 
 
