@@ -6,6 +6,10 @@
 
 * 大名鼎鼎的GPU GEMS系列 （ https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html ）
 
+* GPU GEMS内容提炼 ( https://zhuanlan.zhihu.com/p/35974789 )
+
+* GPU GEMS开放源码 （ https://github.com/QianMo/GPU-Gems-Book-Source-Code ）
+
 * Learning Modern 3D Graphics Programming ( https://alfonse.bitbucket.io/oldtut/index.html )  讲解的比较深
 
 * the book of shaders ( http://thebookofshaders.com/ )
