@@ -106,6 +106,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Realtime Procedural Terrain Generation （ http://web.mit.edu/cesium/Public/terrain.pdf ）
 
+* Tutorial - How to update a shader for OpenGL ES 3.0 (http://www.shaderific.com/blog/2014/3/13/tutorial-how-to-update-a-shader-for-opengl-es-30 ）
+
 #### 还有一些论文在硬盘上，稍后整理
 
 ## Part6: Effects
