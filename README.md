@@ -122,6 +122,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 ( https://github.com/d3/d3-shape/blob/master/README.md#_link )
 ( https://github.com/d3/d3-shape/blob/master/src/link/index.js#L74 )
 
+* svg pocket guide ( http://svgpocketguide.com/book/svgpocketguide.pdf )
+
 
 ## 水体渲染专场
 
