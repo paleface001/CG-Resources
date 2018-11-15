@@ -63,6 +63,8 @@
 
 * 云海生成算法：半透明でモコモコとした雲海を生み出すために （ https://www.famitsu.com/news/201808/23162812.html ）
 
+* shader dash ( https://www.shadertoy.com/view/ldGfWt )
+
 
 ## Part3: 那些大神们
 
