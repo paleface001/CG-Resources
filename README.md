@@ -38,6 +38,12 @@
 
 * Virtual Globe (http://www.virtualglobebook.com/) Cesium出的一本书，讲述地理相关可视化算法
 
+## 城市渲染专场
+
+* https://www.shadertoy.com/view/XtSGWD
+
+* https://www.shadertoy.com/view/XlsyWB
+
 
 ## Part2: tutorial类
 
