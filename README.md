@@ -151,5 +151,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * https://www.shadertoy.com/view/XsBSRG
 
+* Procedural City ( http://www.shamusyoung.com/twentysidedtale/?p=2940 ) (https://www.youtube.com/watch?v=-d2-PtK4F6Y&feature=youtu.be )
+
 
 
