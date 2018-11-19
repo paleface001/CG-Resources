@@ -38,12 +38,6 @@
 
 * Virtual Globe (http://www.virtualglobebook.com/) Cesium出的一本书，讲述地理相关可视化算法
 
-## 城市渲染专场
-
-* https://www.shadertoy.com/view/XtSGWD
-
-* https://www.shadertoy.com/view/XlsyWB
-
 
 ## Part2: tutorial类
 
@@ -147,6 +141,13 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Towards Real-Time Visual Simulation of Water Surfaces （ https://pdfs.semanticscholar.org/59da/08b0b5886ed80add50353873d55a10e86ee5.pdf  ）
 
 * Gerstner Wave （ https://github.com/ludwigpe/WaterSimulation/tree/master/Assets/Shaders ）
+
+
+## 城市渲染专场
+
+* https://www.shadertoy.com/view/XtSGWD
+
+* https://www.shadertoy.com/view/XlsyWB
 
 
 
