@@ -153,5 +153,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Procedural City ( http://www.shamusyoung.com/twentysidedtale/?p=2940 ) (https://www.youtube.com/watch?v=-d2-PtK4F6Y&feature=youtu.be )
 
+## landscape专场
 
+* Incredible procedurally generated landscapes by Lingdong Huang  （ http://www.andrew.cmu.edu/user/lingdonh/portfolio-links/ ）
+  generative + 风格化渲染
 
