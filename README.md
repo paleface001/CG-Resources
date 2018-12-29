@@ -65,6 +65,8 @@
 
 * shader dash ( https://www.shadertoy.com/view/ldGfWt )
 
+* INTERACTIVE COMPUTER GRAPHICS  ( http://graphics.stanford.edu/courses/cs248-18-spring/ )
+
 
 ## Part3: 那些大神们
 
