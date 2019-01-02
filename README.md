@@ -159,4 +159,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Incredible procedurally generated landscapes by Lingdong Huang  （ http://www.andrew.cmu.edu/user/lingdonh/portfolio-links/ ）
   generative + 风格化渲染
+  
+* Visualizing large scale terrain with open source tools ( https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461 )
 
