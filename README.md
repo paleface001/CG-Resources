@@ -24,6 +24,8 @@
 
 * WebGL Fundamentals ( https://webglfundamentals.org/ ) shader装配和管理的部分可以着重看下
 
+* WebGL2 Fundamentals （ https://webgl2fundamentals.org/ ）  
+
 * OGLdev:modern opengl tutorial ( http://ogldev.atspace.co.uk )
 
 * Unity C# Tutorials ( http://catlikecoding.com/unity/tutorials/ ) 基础概念讲的很清楚，也有吸引人的亮点，对我帮助很大
