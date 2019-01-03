@@ -69,6 +69,8 @@
 
 * INTERACTIVE COMPUTER GRAPHICS  ( http://graphics.stanford.edu/courses/cs248-18-spring/ )
 
+* Introducing luma.gl v4.0 （ https://medium.com/vis-gl/introducing-luma-gl-v4-0-54f4d87a08c8 ）
+
 
 ## Part3: 那些大神们
 
