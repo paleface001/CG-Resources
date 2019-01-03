@@ -71,6 +71,8 @@
 
 * Introducing luma.gl v4.0 （ https://medium.com/vis-gl/introducing-luma-gl-v4-0-54f4d87a08c8 ）
 
+* Automatic, GPU-based object highlighting in deck.gl Layers ( https://medium.com/vis-gl/automatic-gpu-based-object-highlighting-in-deck-gl-layers-7fe3def44c89 )
+
 
 ## Part3: 那些大神们
 
