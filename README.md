@@ -99,6 +99,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Scott Holzknecht: lowpoly,风格化 （ https://www.scottcodes.com/ ）
 
+* Jamie Portsmouth：vector & gravity simulation，更厉害的是physically-based SDF （ https://github.com/portsmouth ）
+
 
 ## Part4: Labs
 
