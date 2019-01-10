@@ -73,7 +73,8 @@
 
 * Automatic, GPU-based object highlighting in deck.gl Layers ( https://medium.com/vis-gl/automatic-gpu-based-object-highlighting-in-deck-gl-layers-7fe3def44c89 )
 
-* Fibre： WebGL 3d dynamical systems visualization （ https://github.com/portsmouth/fibre ）
+
+* Your Guide to GPGPU with WebGL ( http://www.vizitsolutions.com/portfolio/webgl/gpgpu/ )
 
 
 ## Part3: 那些大神们
