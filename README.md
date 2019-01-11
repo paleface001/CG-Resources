@@ -73,6 +73,7 @@
 
 * Automatic, GPU-based object highlighting in deck.gl Layers ( https://medium.com/vis-gl/automatic-gpu-based-object-highlighting-in-deck-gl-layers-7fe3def44c89 )
 
+* WebGL 2: New Features  非常清晰的介绍（ http://www.realtimerendering.com/blog/webgl-2-new-features/ ）
 
 * Your Guide to GPGPU with WebGL ( http://www.vizitsolutions.com/portfolio/webgl/gpgpu/ )
 
