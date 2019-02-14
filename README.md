@@ -180,4 +180,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * 精度丢失及z-fighting问题：（ https://blog.csdn.net/baidumap2018/article/details/80270150 ）
 
+* instant terra ( https://www.wysilab.com/Blog.html )
+
 
