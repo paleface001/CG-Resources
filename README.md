@@ -178,3 +178,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
   
 * Visualizing large scale terrain with open source tools ( https://medium.com/@morishuz/visualising-large-scale-terrain-with-open-source-tools-25723a5a5461 )
 
+* 精度丢失及z-fighting问题：（ https://blog.csdn.net/baidumap2018/article/details/80270150 ）
+
+
