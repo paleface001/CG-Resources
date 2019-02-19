@@ -182,4 +182,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * instant terra ( https://www.wysilab.com/Blog.html )
 
+* lumo:A high performance WebGL tile rendering library (https://github.com/unchartedsoftware/lumo )
+
 
