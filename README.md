@@ -77,6 +77,8 @@
 
 * Your Guide to GPGPU with WebGL ( http://www.vizitsolutions.com/portfolio/webgl/gpgpu/ )
 
+* Graphics Programming Projects （ http://graphicscodex.com/projects/projects/ ）
+
 
 ## Part3: 那些大神们
 
@@ -102,6 +104,9 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Scott Holzknecht: lowpoly,风格化 （ https://www.scottcodes.com/ ）
 
 * Jamie Portsmouth：vector & gravity simulation，更厉害的是physically-based SDF （ https://github.com/portsmouth ）
+
+* Morgan McGuire： N厂大神 （ https://casual-effects.com/ ）
+
 
 ## libs
 
