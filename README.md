@@ -151,6 +151,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * svg pocket guide ( http://svgpocketguide.com/book/svgpocketguide.pdf )
 
+* Designing Animated Transitions to Convey Aggregate Operations （ https://github.com/uwdata/aggregate-animation-data ）
+
 
 ## 水体渲染专场
 
