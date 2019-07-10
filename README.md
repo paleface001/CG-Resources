@@ -137,6 +137,10 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * react-three-fiber （ https://github.com/drcmda/react-three-fiber  ）
 
+* Outline Shader ( https://roystan.net/articles/outline-shader.html )
+
+* Edge Detection Shader ( https://alexanderameye.github.io/edgedetection )
+
 #### 还有一些论文在硬盘上，稍后整理
 
 ## Part6: Effects
