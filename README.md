@@ -40,6 +40,8 @@
 
 * Virtual Globe (http://www.virtualglobebook.com/) Cesium出的一本书，讲述地理相关可视化算法
 
+* game programming patterns （ http://gameprogrammingpatterns.com/ ）
+
 
 ## Part2: tutorial类
 
