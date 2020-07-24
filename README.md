@@ -200,3 +200,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * lumo:A high performance WebGL tile rendering library (https://github.com/unchartedsoftware/lumo )
 
 
+## houdini
+
+* 一套很不错的入门教程  （ https://www.tokeru.com/cgwiki/index.php?title=JoyOfVex  https://www.bilibili.com/read/cv782806?from=search ）
+
+
