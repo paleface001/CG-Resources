@@ -206,6 +206,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * https://github.com/CodingTrain/Rainbow-Topics/issues/178
 
+* Fluid Simulation for Dummies ( https://mikeash.com/pyblog/fluid-simulation-for-dummies.html )
+
 
 
 ## houdini
