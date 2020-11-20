@@ -214,6 +214,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * JoyOfVex： 一套很不错的入门教程  （ https://www.tokeru.com/cgwiki/index.php?title=JoyOfVex  https://www.bilibili.com/read/cv782806?from=search ）
 
+* VEX & algorithmn visualization ( https://www.youtube.com/c/JunichiroHorikawa/playlists )
+
 ## processing
 
 * pixelFlow document (https://freshfork.github.io/PixelFlow/reference/ )
