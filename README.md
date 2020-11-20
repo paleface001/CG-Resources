@@ -200,6 +200,14 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * lumo:A high performance WebGL tile rendering library (https://github.com/unchartedsoftware/lumo )
 
 
+## fluid simulation & particle system
+
+* https://www.autodesk.com/research/publications/real-time-fluid-dynamics
+
+* https://github.com/CodingTrain/Rainbow-Topics/issues/178
+
+
+
 ## houdini
 
 * JoyOfVex： 一套很不错的入门教程  （ https://www.tokeru.com/cgwiki/index.php?title=JoyOfVex  https://www.bilibili.com/read/cv782806?from=search ）
@@ -209,6 +217,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * pixelFlow document (https://freshfork.github.io/PixelFlow/reference/ )
 
 * Coding Train ( https://github.com/CodingTrain )
+
 
 
 
