@@ -216,6 +216,9 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * VEX & algorithmn visualization ( https://www.youtube.com/c/JunichiroHorikawa/playlists )
 
+* Houdini VEX Traffic System: How It Works （ https://80.lv/articles/006sdf-houdini-vex-traffic-system-how-it-works/ ）
+
+
 ## processing
 
 * pixelFlow document (https://freshfork.github.io/PixelFlow/reference/ )
