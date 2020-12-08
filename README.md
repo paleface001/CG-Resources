@@ -220,6 +220,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Houdini tech blog ( http://wordpress.discretization.de/houdini/ ) 
 
+* VEX AND EXPRESSIONS: TIPS AND TRICKS    (  https://andreasbabo93.wixsite.com/sbabovfx/useful-vex-and-expressions )
+
 
 ## processing
 
