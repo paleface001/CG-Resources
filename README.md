@@ -222,6 +222,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * VEX AND EXPRESSIONS: TIPS AND TRICKS    (  https://andreasbabo93.wixsite.com/sbabovfx/useful-vex-and-expressions )
 
+* 2019 SIGGRAPH crowd workshop ( https://tutorials.cgrecord.net/2019/08/houdini-crowd-workshop-in-siggraph-2019.html )
+
 
 ## processing
 
