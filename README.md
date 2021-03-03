@@ -224,6 +224,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * 2019 SIGGRAPH crowd workshop ( https://tutorials.cgrecord.net/2019/08/houdini-crowd-workshop-in-siggraph-2019.html )
 
+* nippon 小哥的书 （  http://www.bnn.co.jp/books/9788/  ）
+
 
 ## processing
 
@@ -237,4 +239,5 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Matt Taylor ( https://www.instagram.com/emty01/ )
 
 * https://doxiastudio.com/
+
 
