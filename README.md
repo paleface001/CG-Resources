@@ -226,6 +226,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * nippon 小哥的书 （  http://www.bnn.co.jp/books/9788/  ）
 
+* applied houdini 工业光魔巨佬  ( http://www.appliedhoudini.com/ )
+
 
 ## processing
 
