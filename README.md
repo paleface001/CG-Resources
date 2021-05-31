@@ -123,6 +123,9 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * google poly ( https://poly.google.com/ ) 超有趣的
 
+*  Visual Computing Lab  ( http://vcg.isti.cnr.it/ )  quad mesh
+
+
 ## Part5: 论文
 
 * Proland ( http://proland.inrialpes.fr/index.html ) 视觉效果和性能均超级震撼的3D虚拟地球引擎，论文集非常非常值得一看
