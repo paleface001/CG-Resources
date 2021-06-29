@@ -222,6 +222,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * https://keaukraine.medium.com/webgl-2-fur-simulation-9051690f3444
 
+* https://stackoverflow.com/questions/66003330/how-to-animate-a-rotatable-fluffy-ball-in-three-js
+
 
 ## isometric
 
