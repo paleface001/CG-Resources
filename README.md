@@ -212,6 +212,20 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Fluid Simulation for Dummies ( https://mikeash.com/pyblog/fluid-simulation-for-dummies.html )
 
 
+## fur
+
+* https://xbdev.net/directx3dx/specialX/Fur/index.php
+
+* http://www.catalinzima.com/xna/tutorials/fur-rendering/
+
+* https://github.com/vogel-sa/CS4300Final
+
+* https://keaukraine.medium.com/webgl-2-fur-simulation-9051690f3444
+
+
+## isometric
+
+
 
 ## houdini
 
