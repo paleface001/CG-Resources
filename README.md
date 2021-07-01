@@ -42,6 +42,8 @@
 
 * game programming patterns （ http://gameprogrammingpatterns.com/ ）
 
+* webgl-skinning  ( https://webglfundamentals.org/webgl/lessons/webgl-skinning.html )
+
 
 ## Part2: tutorial类
 
