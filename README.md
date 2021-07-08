@@ -83,7 +83,7 @@
 
 * Graphics Programming Projects （ http://graphicscodex.com/projects/projects/ ）
 
-* Realistic and Fast Cloud Rendering ( http://niniane.org/clouds/ )
+* Realistic and Fast Cloud Rendering ( http://niniane.org/clouds/     https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.9460&rep=rep1&type=pdf  )
 
 
 ## Part3: 那些大神们
