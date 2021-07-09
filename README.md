@@ -251,6 +251,12 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * applied houdini 工业光魔巨佬  ( http://www.appliedhoudini.com/ )
 
+## PCG ( Procedural Content Generation )
+
+* https://users.informatik.haw-hamburg.de/~abo781/abschlussarbeiten/ba_freiberg.pdf
+
+* Procedural Content Generation: Thinking With Modules (  https://www.gamasutra.com/view/feature/174311/procedural_content_generation_.php?print=1 )
+
 
 ## processing
 
