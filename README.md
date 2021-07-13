@@ -16,7 +16,7 @@
 
 * Lode's Computer Graphics Tutorial (http://lodev.org/cgtutor/index.html ） 之前搜noise\turbulence找到的，讲解还算清晰
 
-* Learn openGl系列 （ https://learnopengl.com/Introduction ）
+* Learn openGl系列 （ https://learnopengl.com/Introduction ） ( https://learnopengl-cn.github.io/ )  —— 中文版
 
 * learn webgl ( http://learnwebgl.brown37.net/index.html )
 
