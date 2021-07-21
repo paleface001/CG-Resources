@@ -120,6 +120,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * shadergraph:linking together GLSL snippets into stand-alone shaders ( https://github.com/unconed/shadergraph )
 
+* Open3D: A Modern Library for 3D Data Processing  （ https://github.com/intel-isl/Open3D ）
+
 
 ## Part4: Labs
 
