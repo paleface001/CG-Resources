@@ -173,6 +173,11 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Designing Animated Transitions to Convey Aggregate Operations （ https://github.com/uwdata/aggregate-animation-data ）
 
 
+## site:
+
+* real-time VFX ( https://realtimevfx.com/ )
+
+
 ## 水体渲染专场
 
 * lowpoly water ( https://www.youtube.com/watch?v=5yhDb9dzJ58 )
@@ -187,7 +192,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Gerstner Wave （ https://github.com/ludwigpe/WaterSimulation/tree/master/Assets/Shaders ）
 
 
-## 城市渲染专场
+## 城市渲染
 
 * https://www.shadertoy.com/view/XtSGWD
 
@@ -197,7 +202,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Procedural City ( http://www.shamusyoung.com/twentysidedtale/?p=2940 ) (https://www.youtube.com/watch?v=-d2-PtK4F6Y&feature=youtu.be )
 
-## landscape专场
+## landscape
 
 * Incredible procedurally generated landscapes by Lingdong Huang  （ http://www.andrew.cmu.edu/user/lingdonh/portfolio-links/ ）
   generative + 风格化渲染
@@ -231,9 +236,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * https://keaukraine.medium.com/webgl-2-fur-simulation-9051690f3444
 
 * https://stackoverflow.com/questions/66003330/how-to-animate-a-rotatable-fluffy-ball-in-three-js
-
-
-## isometric
 
 
 
