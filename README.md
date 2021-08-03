@@ -215,6 +215,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * lumo:A high performance WebGL tile rendering library (https://github.com/unchartedsoftware/lumo )
 
+* Making Terraced Terrain  （ http://icospheric.com/blog/2016/07/17/making-terraced-terrain/ ）
+
 
 ## fluid simulation & particle system
 
