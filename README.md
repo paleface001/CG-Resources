@@ -85,6 +85,8 @@
 
 * Realistic and Fast Cloud Rendering ( http://niniane.org/clouds/     https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.81.9460&rep=rep1&type=pdf  )
 
+* Fast Subsurface Scattering in Unity ( https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/ ) （ https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/ ）
+
 
 ## Part3: 那些大神们
 
@@ -153,6 +155,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Outline Shader ( https://roystan.net/articles/outline-shader.html )
 
 * Edge Detection Shader ( https://alexanderameye.github.io/edgedetection )
+
 
 #### 还有一些论文在硬盘上，稍后整理
 
