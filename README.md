@@ -136,7 +136,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 *  Visual Computing Lab  ( http://vcg.isti.cnr.it/ )  quad mesh
 
 
-* Universal Everything （  https://www.universaleverything.com/latest  ） （ twi: https://twitter.com/universalevery  ） 
+* Universal Everything （  https://www.universaleverything.com/latest  ） （ twi: https://twitter.com/universalevery  ） ( https://www.ueeditions.com/works )
 
 
 ## Part5: 论文
@@ -184,7 +184,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * real-time VFX ( https://realtimevfx.com/ )
 
 
-## 水体渲染专场
+## 水体渲染
 
 * lowpoly water ( https://www.youtube.com/watch?v=5yhDb9dzJ58 )
 ( https://github.com/TheThinMatrix/LowPolyWater )
