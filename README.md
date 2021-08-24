@@ -87,6 +87,8 @@
 
 * Fast Subsurface Scattering in Unity ( https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/ ) （ https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/ ）
 
+* Shadertoy Tutorial series, 讲 SDF operation讲的很好 （ https://inspirnathan.com/posts/51-shadertoy-tutorial-part-5  ）
+
 
 ## Part3: 那些大神们
 
