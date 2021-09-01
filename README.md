@@ -30,7 +30,7 @@
 
 * Unity C# Tutorials ( http://catlikecoding.com/unity/tutorials/ ) 基础概念讲的很清楚，也有吸引人的亮点，对我帮助很大
 
-* Mathematics and Physics for Computer Graphics ( http://www.scratchapixel.com )没写完，随便看看
+* Mathematics and Physics for Computer Graphics ( http://www.scratchapixel.com )没写完，随便看看  ( https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/procedural-patterns-noise-part-1/simple-pattern-examples ) 关于 noise pattern 的不错
 
 * 3D Game Engine Programming (  https://www.3dgep.com )
 
