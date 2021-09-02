@@ -89,6 +89,8 @@
 
 * Shadertoy Tutorial series, 讲 SDF operation讲的很好 （ https://inspirnathan.com/posts/51-shadertoy-tutorial-part-5  ）
 
+* Poisson Disk Sampling （ http://devmag.org.za/2009/05/03/poisson-disk-sampling/  ）
+
 
 ## Part3: 那些大神们
 
