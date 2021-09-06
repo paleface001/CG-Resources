@@ -271,6 +271,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * houdini gubbins ( https://houdinigubbins.wordpress.com/ )
 
+* HOUDINI PROCEDURAL OPEN WORLD BUILDING （ https://roahithraj.com/blog/2021/2/23/part-0-precursor-houdini-procedural-open-world-building ）
+
 
 ## PCG ( Procedural Content Generation )
 
