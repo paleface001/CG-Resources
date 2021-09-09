@@ -227,6 +227,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Making Terraced Terrain  （ http://icospheric.com/blog/2016/07/17/making-terraced-terrain/ ）
 
+* Three Ways of Generating Terrain with Erosion Features ( https://github.com/dandrino/terrain-erosion-3-ways )
+
 
 ## fluid simulation & particle system
 
