@@ -91,7 +91,7 @@
 
 * Poisson Disk Sampling （ http://devmag.org.za/2009/05/03/poisson-disk-sampling/  ）
  
-* 对 glsl Derivatives 非常好的讲解 ( https://www.ronja-tutorials.com/post/046-fwidth/ ) 
+* 对 glsl Derivatives 非常好的讲解 ( https://www.ronja-tutorials.com/post/046-fwidth/ https://blog.csdn.net/hankern/article/details/106516006 ) 
 
 
 ## Part3: 那些大神们
