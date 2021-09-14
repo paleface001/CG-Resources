@@ -90,6 +90,8 @@
 * Shadertoy Tutorial series, 讲 SDF operation讲的很好 （ https://inspirnathan.com/posts/51-shadertoy-tutorial-part-5  ）
 
 * Poisson Disk Sampling （ http://devmag.org.za/2009/05/03/poisson-disk-sampling/  ）
+ 
+* 对 glsl Derivatives 非常好的讲解 ( https://www.ronja-tutorials.com/post/046-fwidth/ ) 
 
 
 ## Part3: 那些大神们
@@ -138,7 +140,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * google poly ( https://poly.google.com/ ) 超有趣的
 
 *  Visual Computing Lab  ( http://vcg.isti.cnr.it/ )  quad mesh
-
 
 * Universal Everything （  https://www.universaleverything.com/latest  ） （ twi: https://twitter.com/universalevery  ） ( https://www.ueeditions.com/works )
 
