@@ -277,11 +277,14 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * HOUDINI PROCEDURAL OPEN WORLD BUILDING （ https://roahithraj.com/blog/2021/2/23/part-0-precursor-houdini-procedural-open-world-building ）
 
 
+
 ## PCG ( Procedural Content Generation )
 
 * https://users.informatik.haw-hamburg.de/~abo781/abschlussarbeiten/ba_freiberg.pdf
 
 * Procedural Content Generation: Thinking With Modules (  https://www.gamasutra.com/view/feature/174311/procedural_content_generation_.php?print=1 )
+
+* 中世纪城市生成那位大神的网站 （ https://watabou.itch.io/  ） 
 
 
 ## processing
