@@ -270,6 +270,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Volume Rendering in Unity ( https://matiaslavik.wordpress.com/2020/01/19/volume-rendering-in-unity/ )
 
+* Volumetric Rendering 非常棒！！ （  https://www.alanzucconi.com/2016/07/01/volumetric-rendering/   ）
+
 
 ## houdini
 
