@@ -252,6 +252,17 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * https://stackoverflow.com/questions/66003330/how-to-animate-a-rotatable-fluffy-ball-in-three-js
 
+## volume rendering
+
+* Volume Rendering with WebGL ( https://www.willusher.io/webgl/2019/01/13/volume-rendering-with-webgl )
+
+* WebGL Volume Rendering Made Easy ( https://github.com/lebarba/WebGLVolumeRendering )  ( http://www.lebarba.com/ )
+
+* Progressive Volume Rendering using WebGL and HTML5 ( https://www.scss.tcd.ie/publications/theses/diss/2011/TCD-SCSS-DISSERTATION-2011-062.pdf )
+
+* Displacement Mapping on the GPU — State of the Art ( http://page.mi.fu-berlin.de/block/htw-lehre/wise2012_2013/bel_und_rend/skripte/szirmay2006.pdf )
+
+* View-Dependent Displacement Mapping ( https://cg.cs.tsinghua.edu.cn/papers/sig2003.pdf )
 
 
 ## houdini
