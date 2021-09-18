@@ -272,6 +272,9 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Volumetric Rendering 非常棒！！ （  https://www.alanzucconi.com/2016/07/01/volumetric-rendering/   ）
 
+* GPU GEM:  Volume Rendering Techniques  ( https://developer.download.nvidia.cn/books/HTML/gpugems/gpugems_ch39.html )
+
+
 
 ## houdini
 
