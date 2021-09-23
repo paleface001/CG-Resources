@@ -87,6 +87,8 @@
 
 * Fast Subsurface Scattering in Unity ( https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/ ) （ https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/ ）
 
+* Approximating Translucency for a Fast, Cheap and Convincing Subsurface Scattering Look ( https://www.ea.com/frostbite/news/approximating-translucency-for-a-fast-cheap-and-convincing-subsurface-scattering-look )
+
 * Shadertoy Tutorial series, 讲 SDF operation讲的很好 （ https://inspirnathan.com/posts/51-shadertoy-tutorial-part-5  ）
 
 * Poisson Disk Sampling （ http://devmag.org.za/2009/05/03/poisson-disk-sampling/  ）
