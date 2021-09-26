@@ -95,6 +95,8 @@
  
 * 对 glsl Derivatives 非常好的讲解 ( https://www.ronja-tutorials.com/post/046-fwidth/ https://blog.csdn.net/hankern/article/details/106516006 ) 
 
+* 《塞尔达传说：旷野之息》技术分析文章 （ https://www.bilibili.com/read/cv3239418 ）  （ https://www.resetera.com/threads/zelda-breath-of-the-wild-the-technical-analysis.8197/ ）
+
 
 ## Part3: 那些大神们
 
