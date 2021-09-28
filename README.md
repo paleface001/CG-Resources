@@ -328,4 +328,16 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * https://doxiastudio.com/
 
+## disney principled brdf & bsdf
+
+* Physically-Based Shading at Disney ( https://static1.squarespace.com/static/58586fa5ebbd1a60e7d76d3e/t/593a3afa46c3c4a376d779f6/1496988449807/s2012_pbs_disney_brdf_notes_v2.pdf ) 
+
+* 基于物理的渲染（PBR）白皮书 | 迪士尼原则的BRDF与BSDF相关总结 ( https://cloud.tencent.com/developer/article/1427571 )
+
+* Disney Principled BRDF实现笔记 ( https://zhuanlan.zhihu.com/p/57771965 )  
+
+* Disney BRDF Shader ( https://github.com/wdas/brdf/blob/main/src/brdfs/disney.brdf ) 
+
+* Rendering the Moana Island Scene Part 1: Implementing the Disney BSDF ( https://schuttejoe.github.io/post/disneybsdf/ )
+
 
