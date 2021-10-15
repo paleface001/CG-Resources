@@ -280,6 +280,14 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * GPU GEM:  Volume Rendering Techniques  ( https://developer.download.nvidia.cn/books/HTML/gpugems/gpugems_ch39.html )
 
+## Spherical Harmonics 球谐函数
+
+* Spherical Harmonic Lighting: The Gritty Details  （ http://www.cse.chalmers.se/~uffe/xjobb/Readings/GlobalIllumination/Spherical%20Harmonic%20Lighting%20-%20the%20gritty%20details.pdf ）
+
+* Spherical Harmonics in VOPs ( http://mattebb.com/weblog/spherical-harmonics-in-vops/  ) 
+
+* LIGHTMAP BAKING AND SPHERICAL GAUSSIANS ( https://mynameismjp.wordpress.com/2016/10/09/new-blog-series-lightmap-baking-and-spherical-gaussians/ )  就是那个baking lab
+
 
 
 ## houdini
