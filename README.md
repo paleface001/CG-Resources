@@ -359,3 +359,16 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Rendering the Moana Island Scene Part 1: Implementing the Disney BSDF ( https://schuttejoe.github.io/post/disneybsdf/ )
 
 
+## scene-based VFX
+
+* Let It Snow! How To Make a Fast Screen-Space Snow Accumulation Shader In Unity ( https://blog.theknightsofunity.com/make-it-snow-fast-screen-space-snow-shader/  )
+
+* real-time snow deformation ( https://github.com/jjacobson/Realtime-Snow ) 
+
+* deformers ( https://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch42.html ) 
+
+* Real-Time Deformation of Subdivision Surfaces from Object Collisions  ( http://www.graphics.stanford.edu/~niessner/papers/2014/4subddef/schaefer2014subddef.pdf ) 
+
+* Local Painting and Deformation of Meshes on the GPU  ( http://www.graphics.stanford.edu/~niessner/papers/2014/3memory/schaefer2014memory.pdf )
+
+
