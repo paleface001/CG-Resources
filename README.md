@@ -375,4 +375,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * snow deformation ( https://github.com/vanish87/SnowDeformation )
 
+* deep snow foot print ( https://github.com/ZGeng/DeepSnowFootprint  )
+
 
