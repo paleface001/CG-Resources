@@ -371,4 +371,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Local Painting and Deformation of Meshes on the GPU  ( http://www.graphics.stanford.edu/~niessner/papers/2014/3memory/schaefer2014memory.pdf )
 
+* Real-time Snow Deformation （ https://is.muni.cz/th/m2v6i/real-time_snow_deformation.pdf ）
+
 
