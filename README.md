@@ -373,4 +373,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Real-time Snow Deformation （ https://is.muni.cz/th/m2v6i/real-time_snow_deformation.pdf ）
 
+* snow deformation ( https://github.com/vanish87/SnowDeformation )
+
 
