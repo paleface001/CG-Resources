@@ -97,6 +97,8 @@
 
 * 《塞尔达传说：旷野之息》技术分析文章 （ https://www.bilibili.com/read/cv3239418 ）  （ https://www.resetera.com/threads/zelda-breath-of-the-wild-the-technical-analysis.8197/ ）
 
+* depth and normal texture ( https://williamchyr.com/unity-shaders-depth-and-normal-textures/  )
+
 
 ## Part3: 那些大神们
 
