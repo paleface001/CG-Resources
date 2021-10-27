@@ -99,6 +99,8 @@
 
 * depth and normal texture ( https://williamchyr.com/unity-shaders-depth-and-normal-textures/  )
 
+* 风之旅人沙子实现方式 （  https://www.alanzucconi.com/2019/10/08/journey-sand-shader-1/ ）
+
 
 ## Part3: 那些大神们
 
