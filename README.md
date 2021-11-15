@@ -101,6 +101,8 @@
 
 * 风之旅人沙子实现方式 （  https://www.alanzucconi.com/2019/10/08/journey-sand-shader-1/ ）
 
+* Creating a Spherical Environment Mapping shader ( https://www.clicktorelease.com/blog/creating-spherical-environment-mapping-shader/  ) 
+
 
 ## Part3: 那些大神们
 
