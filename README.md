@@ -103,7 +103,8 @@
 
 * Creating a Spherical Environment Mapping shader ( https://www.clicktorelease.com/blog/creating-spherical-environment-mapping-shader/  ) 
 
-* GLTF transmittion ( https://github.com/mrdoob/three.js/blob/dev/src/renderers/shaders/ShaderChunk/transmission_pars_fragment.glsl.js
+* GLTF transmittion ( https://github.com/KhronosGroup/glTF-Sample-Viewer/blob/master/source/Renderer/shaders/ibl.glsl
+                      https://github.com/KhronosGroup/glTF-Sample-Viewer/blob/master/source/Renderer/shaders/pbr.frag
                       https://github.com/mrdoob/three.js/blob/dev/src/renderers/shaders/ShaderChunk/transmission_fragment.glsl.js
                       https://github.com/mrdoob/three.js/blob/dev/src/renderers/shaders/ShaderChunk/transmission_pars_fragment.glsl.js )
 
