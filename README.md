@@ -108,6 +108,8 @@
                       https://github.com/mrdoob/three.js/blob/dev/src/renderers/shaders/ShaderChunk/transmission_fragment.glsl.js
                       https://github.com/mrdoob/three.js/blob/dev/src/renderers/shaders/ShaderChunk/transmission_pars_fragment.glsl.js )
 
+* Case Study: Vector Displacement Mapping in Real-Time  （ https://80.lv/articles/case-study-vector-displacement-mapping-in-real-time/ ）
+
 
 ## Part3: 那些大神们
 
