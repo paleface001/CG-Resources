@@ -110,6 +110,8 @@
 
 * Case Study: Vector Displacement Mapping in Real-Time  （ https://80.lv/articles/case-study-vector-displacement-mapping-in-real-time/ ）
 
+* Raytracing Reflection, Refraction, Fresnel, Total Internal Reflection, and Beer’s Law ( https://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-internal-reflection-and-beers-law/  ) 
+
 
 ## Part3: 那些大神们
 
