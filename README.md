@@ -44,6 +44,8 @@
 
 * webgl-skinning  ( https://webglfundamentals.org/webgl/lessons/webgl-skinning.html )
 
+* Real-time rendering of water caustics ( https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa )
+
 
 ## Part2: tutorial类
 
