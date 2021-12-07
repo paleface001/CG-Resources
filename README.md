@@ -116,7 +116,7 @@
 
 * Enterprise PBR Shading Model  ( https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/spec-2021x.md.html#components/sheen )
 
-* Filament Materials Guide  ( https://google.github.io/filament/Materials.md.html#materialmodels/clothmodel  ) 
+* Filament Materials Guide  ( https://google.github.io/filament/Materials.md.html#materialmodels/clothmodel  )  (  https://google.github.io/filament/Filament.html )
 
 
 ## Part3: 那些大神们
