@@ -114,6 +114,10 @@
 
 * Raytracing Reflection, Refraction, Fresnel, Total Internal Reflection, and Beer’s Law ( https://blog.demofox.org/2017/01/09/raytracing-reflection-refraction-fresnel-total-internal-reflection-and-beers-law/  ) 
 
+* Enterprise PBR Shading Model  ( https://dassaultsystemes-technology.github.io/EnterprisePBRShadingModel/spec-2021x.md.html#components/sheen )
+
+* Filament Materials Guide  ( https://google.github.io/filament/Materials.md.html#materialmodels/clothmodel  ) 
+
 
 ## Part3: 那些大神们
 
