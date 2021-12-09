@@ -120,6 +120,8 @@
 
 * Unity buildIn shader ( https://github.com/TwoTailsGames/Unity-Built-in-Shaders  )  ( https://github.com/TwoTailsGames/Unity-Built-in-Shaders/blob/master/CGIncludes/UnityMetaPass.cginc ) 
 
+* light probes:  ( https://hub.jmonkeyengine.org/t/pbr-indoor-scenes-light-probes/37975/2 ) ( https://ubm-twvideo01.s3.amazonaws.com/o1/vault/gdc2012/slides/Programming%20Track/Cupisz_Robert_Light_Probe_Interpolation.pdf )
+
 
 ## Part3: 那些大神们
 
