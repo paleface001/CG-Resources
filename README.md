@@ -118,6 +118,8 @@
 
 * Filament Materials Guide  ( https://google.github.io/filament/Materials.md.html#materialmodels/clothmodel  )  (  https://google.github.io/filament/Filament.html )
 
+* Unity buildIn shader ( https://github.com/TwoTailsGames/Unity-Built-in-Shaders  )  ( https://github.com/TwoTailsGames/Unity-Built-in-Shaders/blob/master/CGIncludes/UnityMetaPass.cginc ) 
+
 
 ## Part3: 那些大神们
 
