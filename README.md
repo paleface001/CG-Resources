@@ -385,6 +385,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Rendering the Moana Island Scene Part 1: Implementing the Disney BSDF ( https://schuttejoe.github.io/post/disneybsdf/ )
 
+* Anisotrupy extension:  (  https://github.com/ux3d/glTF/tree/extensions/KHR_materials_anisotropy/extensions/2.0/Khronos/KHR_materials_anisotropy  )
+
 
 ## scene-based VFX
 
