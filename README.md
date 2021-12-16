@@ -124,6 +124,8 @@
 
 * creating a stylized chaparral enviroment in UE4 ( https://www.artstation.com/artwork/68NeE5  ) 
 
+* bloom ( https://www.froyok.fr/blog/2021-12-ue4-custom-bloom/ ) ( https://zhuanlan.zhihu.com/p/125744132 ) ( https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/ )
+
 
 ## Part3: 那些大神们
 
