@@ -238,7 +238,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Gerstner Wave （ https://github.com/ludwigpe/WaterSimulation/tree/master/Assets/Shaders ）
 
-* * Real-time rendering of water caustics ( https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa )  ( https://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c )
+* Real-time rendering of water caustics ( https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa )  ( https://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c )
 
 
 ## 城市渲染
