@@ -125,6 +125,8 @@
 
 * bloom ( https://www.froyok.fr/blog/2021-12-ue4-custom-bloom/ ) ( https://zhuanlan.zhihu.com/p/125744132 ) ( https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/ )
 
+* SDF、noise、projection  (  https://www.ronja-tutorials.com/ )
+
 
 ## Part3: 那些大神们
 
