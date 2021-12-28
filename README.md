@@ -350,6 +350,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * HOUDINI PROCEDURAL OPEN WORLD BUILDING （ https://roahithraj.com/blog/2021/2/23/part-0-precursor-houdini-procedural-open-world-building ）
 
+* houdini divide node —— compute dual 原理  （ https://medium.com/@jakerice_7202/computing-the-dual-ff2a93077e2e ）
+ 
 
 
 ## PCG ( Procedural Content Generation )
