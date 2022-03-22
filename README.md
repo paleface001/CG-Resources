@@ -420,3 +420,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * Real-Time Vehicle Trails in Deformable Terrain  （ http://www.diva-portal.org/smash/get/diva2:1111578/FULLTEXT01.pdf ） 
 
 
+## niagara
+
+* Basics of Ribbons in UE4 （ https://www.artstation.com/blogs/kanoba/p3yX/basics-of-ribbons-in-ue4  ）
+
