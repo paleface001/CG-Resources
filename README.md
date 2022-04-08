@@ -419,6 +419,12 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Real-Time Vehicle Trails in Deformable Terrain  （ http://www.diva-portal.org/smash/get/diva2:1111578/FULLTEXT01.pdf ） 
 
+## UE4
+
+* Custom Depth in Unreal Engine 4 ( https://www.tomlooman.com/the-many-uses-of-custom-depth-in-unreal-4/ )
+
+* Multi-color Outline Post Process in Unreal Engine ( https://www.tomlooman.com/unreal-engine-outline-multi-color-post-process/ )
+
 
 ## niagara
 
