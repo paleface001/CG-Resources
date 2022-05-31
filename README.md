@@ -430,3 +430,13 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Basics of Ribbons in UE4 （ https://www.artstation.com/blogs/kanoba/p3yX/basics-of-ribbons-in-ue4  ）
 
+
+
+## Tips:
+
+* polygon inner glow effect:  
+  https://forum.unity.com/threads/need-tips-on-creating-inline-glow-shader-for-2d-polygons.506814/
+  http://kylehalladay.com/blog/tutorial/2014/02/18/Fresnel-Shaders-From-The-Ground-Up.html
+  
+  
+
