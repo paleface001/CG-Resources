@@ -362,6 +362,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * 中世纪城市生成那位大神的网站 （ https://watabou.itch.io/  ） 
 
+* 用参数化预制构件建模的小工具  （ https://80.lv/articles/a-great-tool-for-creating-3d-models-from-blocks/  ）
+
 
 ## processing
 
@@ -437,6 +439,9 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * polygon inner glow effect:  
   https://forum.unity.com/threads/need-tips-on-creating-inline-glow-shader-for-2d-polygons.506814/
   http://kylehalladay.com/blog/tutorial/2014/02/18/Fresnel-Shaders-From-The-Ground-Up.html
+  
+  
+ 
   
   
 
