@@ -253,6 +253,7 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Procedural City ( http://www.shamusyoung.com/twentysidedtale/?p=2940 ) (https://www.youtube.com/watch?v=-d2-PtK4F6Y&feature=youtu.be )
 
+
 ## landscape
 
 * Incredible procedurally generated landscapes by Lingdong Huang  （ http://www.andrew.cmu.edu/user/lingdonh/portfolio-links/ ）
@@ -365,6 +366,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 * 中世纪城市生成那位大神的网站 （ https://watabou.itch.io/  ） 
 
 * 用参数化预制构件建模的小工具  （ https://80.lv/articles/a-great-tool-for-creating-3d-models-from-blocks/  ）
+
+* 参数化建模软件 Dynamo（  https://dynamobim.org/  ）
 
 
 ## processing
