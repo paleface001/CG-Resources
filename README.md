@@ -209,6 +209,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * ITO World: 地理空间数据可视化，早晚要用shader实现这样的效果 ( http://www.itoworld.com/design-services/ )
 
+* Ice Missile Ribbon Tutorial  （ https://kanoba.artstation.com/blog/category/1   ）
+
 
 ## Part 5: 2D图形 （再不复习就忘光了）
 
