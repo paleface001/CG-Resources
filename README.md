@@ -127,6 +127,8 @@
 
 * SDF、noise、projection  (  https://www.ronja-tutorials.com/ )
 
+* shader toy tutorial ( https://inspirnathan.com/posts/54-shadertoy-tutorial-part-8/ )
+
 
 ## Part3: 那些大神们
 
