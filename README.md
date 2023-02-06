@@ -457,6 +457,9 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
  
  * TEXTure: Text-Guided Texturing of 3D Shapes
 https://texturepaper.github.io/TEXTurePaper/
+
+* WebGPU C++ Guide
+https://eliemichel.github.io/LearnWebGPU/
  
  
  
