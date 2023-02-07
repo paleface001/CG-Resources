@@ -460,7 +460,11 @@ https://texturepaper.github.io/TEXTurePaper/
 
 * WebGPU C++ Guide
 https://eliemichel.github.io/LearnWebGPU/
- 
- 
- 
 
+
+## product
+
+* 一个 editor， 可以看看    https://showcase.pixotronics.com/
+ 
+ 
+ 
