@@ -465,6 +465,12 @@ https://eliemichel.github.io/LearnWebGPU/
 ## product
 
 * 一个 editor， 可以看看    https://showcase.pixotronics.com/
+
+
  
- 
- 
+## blender
+
+* Blender source code directories explained   https://wiki.blender.org/wiki/Source/File_Structure
+
+* DIVE INTO THE CODE | Blender Everyday #11   https://www.youtube.com/watch?v=tCdx7gzp0Ac&list=PL4b2LZSrqoByAj20_-paLE_76Ms11zwku&index=6&t=4098s
+
