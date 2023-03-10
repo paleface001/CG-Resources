@@ -474,3 +474,8 @@ https://eliemichel.github.io/LearnWebGPU/
 
 * DIVE INTO THE CODE | Blender Everyday #11   https://www.youtube.com/watch?v=tCdx7gzp0Ac&list=PL4b2LZSrqoByAj20_-paLE_76Ms11zwku&index=6&t=4098s
 
+* Blender自己的文档，讲了一些架构设计
+https://wiki.blender.org/wiki/Reference/FAQ
+https://wiki.blender.org/wiki/Source
+https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Manager/#MVC_model
+
