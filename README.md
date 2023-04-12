@@ -246,6 +246,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Real-time rendering of water caustics ( https://medium.com/@martinRenou/real-time-rendering-of-water-caustics-59cda1d74aa )  ( https://medium.com/@evanwallace/rendering-realtime-caustics-in-webgl-2a99a29a0b2c )
 
+* Refraction, dispersion, and other shader light effects ( https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/ )
+
 
 ## 城市渲染
 
