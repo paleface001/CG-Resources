@@ -481,3 +481,9 @@ https://wiki.blender.org/wiki/Reference/FAQ
 https://wiki.blender.org/wiki/Source
 https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Manager/#MVC_model
 
+
+* 3D AIGC
+* https://texturepaper.github.io/TEXTurePaper/
+* https://dreamfusion3d.github.io/
+* https://mp.weixin.qq.com/s/s-samQuu2u7BReRrqdL4WQ
+
