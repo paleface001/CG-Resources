@@ -375,6 +375,8 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * 参数化建模软件 Dynamo（  https://dynamobim.org/  ）
 
+* Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis   （ https://github.com/llorz/SGA21_roofOptimization ）
+
 
 ## processing
 
