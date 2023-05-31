@@ -488,4 +488,6 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 * https://texturepaper.github.io/TEXTurePaper/
 * https://dreamfusion3d.github.io/
 * https://mp.weixin.qq.com/s/s-samQuu2u7BReRrqdL4WQ
+* Plenoxels： Radiance Fields without Neural Networks   https://alexyu.net/plenoxels/  https://github.com/sxyu/svox2
+* Direct Voxel Grid Optimization:  Super-fast Convergence for Radiance Fields Reconstruction   https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Direct_Voxel_Grid_Optimization_Super-Fast_Convergence_for_Radiance_Fields_Reconstruction_CVPR_2022_paper.pdf
 
