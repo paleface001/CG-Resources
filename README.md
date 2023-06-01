@@ -499,3 +499,5 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * [ Nerf Editing] : NeRFshop: Interactive Editing of Neural Radiance Fields  https://www.youtube.com/watch?v=HC56Zwui1bY    https://repo-sam.inria.fr/fungraph/nerfshop/ 
 
+* [ Nerf realtime rendering ] : https://mobile-nerf.github.io/
+
