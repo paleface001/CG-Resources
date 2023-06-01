@@ -495,7 +495,7 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * Direct Voxel Grid Optimization:  Super-fast Convergence for Radiance Fields Reconstruction   https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Direct_Voxel_Grid_Optimization_Super-Fast_Convergence_for_Radiance_Fields_Reconstruction_CVPR_2022_paper.pdf
 
-* Nerf: https://arxiv.org/pdf/2003.08934.pdf
+* Nerf: https://arxiv.org/pdf/2003.08934.pdf     https://docs.nerf.studio/en/latest/quickstart/installation.html
 
 * [ Nerf Editing] : NeRFshop: Interactive Editing of Neural Radiance Fields  https://www.youtube.com/watch?v=HC56Zwui1bY    https://repo-sam.inria.fr/fungraph/nerfshop/ 
 
