@@ -484,10 +484,18 @@ https://wiki.blender.org/wiki/Source
 https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Manager/#MVC_model
 
 
-* 3D AIGC
+## 3D AIGC
 * https://texturepaper.github.io/TEXTurePaper/
+
 * https://dreamfusion3d.github.io/
+
 * https://mp.weixin.qq.com/s/s-samQuu2u7BReRrqdL4WQ
+
 * Plenoxels： Radiance Fields without Neural Networks   https://alexyu.net/plenoxels/  https://github.com/sxyu/svox2
+
 * Direct Voxel Grid Optimization:  Super-fast Convergence for Radiance Fields Reconstruction   https://openaccess.thecvf.com/content/CVPR2022/papers/Sun_Direct_Voxel_Grid_Optimization_Super-Fast_Convergence_for_Radiance_Fields_Reconstruction_CVPR_2022_paper.pdf
+
+* Nerf: https://arxiv.org/pdf/2003.08934.pdf
+
+* [ Nerf Editing] : NeRFshop: Interactive Editing of Neural Radiance Fields  https://www.youtube.com/watch?v=HC56Zwui1bY    https://repo-sam.inria.fr/fungraph/nerfshop/ 
 
