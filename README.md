@@ -501,3 +501,9 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * [ Nerf realtime rendering ] : https://mobile-nerf.github.io/
 
+* MobileNeRF: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures   https://mobile-nerf.github.io/
+
+* MobileNeRF unity viewer: https://github.com/julienkay/MobileNeRF-Unity-Viewer/tree/master
+
+* Baking Neural Radiance Fields for Real-Time View-Synthesis: https://phog.github.io/snerg/
+
