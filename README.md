@@ -377,12 +377,11 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * Intuitive and Efficient Roof Modeling for Reconstruction and Synthesis   （ https://github.com/llorz/SGA21_roofOptimization ）
 
+* 码工图形，里面有很多关于程序化生成的内容  （ http://ma-yidong.com/blog/ ）
 
-## processing
 
-* pixelFlow document (https://freshfork.github.io/PixelFlow/reference/ )
 
-* Coding Train ( https://github.com/CodingTrain )
+
 
 
 ## artist
@@ -482,6 +481,12 @@ https://eliemichel.github.io/LearnWebGPU/
 https://wiki.blender.org/wiki/Reference/FAQ
 https://wiki.blender.org/wiki/Source
 https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Manager/#MVC_model
+
+* Add-on Tutorial  https://docs.blender.org/manual/en/latest/advanced/scripting/addon_tutorial.html
+
+* Writing a custom geometry node for Blender    ( https://blog.exppad.com/article/writing-blender-geometry-node  )
+
+* Blender Python - Scripting Series  ( https://www.youtube.com/playlist?list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb- )
 
 
 ## 3D AIGC
