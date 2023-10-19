@@ -512,3 +512,7 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * Baking Neural Radiance Fields for Real-Time View-Synthesis: https://phog.github.io/snerg/
 
+* 3D Gaussian Splatting  （ https://huggingface.co/blog/gaussian-splatting ） 
+
+
+
