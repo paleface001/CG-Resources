@@ -431,7 +431,9 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 * unity cllapsed ground ( https://github.com/MaxwellGengYF/Unity-Collapsible-Ground ) 
 
-* Real-Time Vehicle Trails in Deformable Terrain  （ http://www.diva-portal.org/smash/get/diva2:1111578/FULLTEXT01.pdf ） 
+* Real-Time Vehicle Trails in Deformable Terrain  （ http://www.diva-portal.org/smash/get/diva2:1111578/FULLTEXT01.pdf ）
+
+* 一位做vfx做的不错的： https://twitter.com/cmzw_
 
 ## UE4
 
