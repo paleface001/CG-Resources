@@ -514,7 +514,11 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * Baking Neural Radiance Fields for Real-Time View-Synthesis: https://phog.github.io/snerg/
 
-* 3D Gaussian Splatting  （ https://huggingface.co/blog/gaussian-splatting ） 
+* Instant-NGP (https://nvlabs.github.io/instant-ngp/)
+
+* 3D Gaussian Splatting  （ https://huggingface.co/blog/gaussian-splatting ）(https://github.com/graphdeco-inria/gaussian-splatting#3d-gaussian-splatting-for-real-time-radiance-field-rendering) （ https://github.com/aras-p/UnityGaussianSplatting ）
+
+* Chat with NeRF： Grounding 3D Objects in Neural Radiance Field through Dialog   （ https://chat-with-nerf.github.io/ ）（https://github.com/sled-group/chat-with-nerf）
 
 
 
