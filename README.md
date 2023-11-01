@@ -520,5 +520,7 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * Chat with NeRF： Grounding 3D Objects in Neural Radiance Field through Dialog   （ https://chat-with-nerf.github.io/ ）（https://github.com/sled-group/chat-with-nerf）
 
+* point based rendering (https://ls7-gv.cs.tu-dortmund.de/research/points/points.html) (https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2002/rw02.pdf)  (https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2004/pbg04.pdf)
+
 
 
