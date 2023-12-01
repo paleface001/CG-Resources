@@ -522,5 +522,5 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * point based rendering (https://ls7-gv.cs.tu-dortmund.de/research/points/points.html) (https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2002/rw02.pdf)  (https://ls7-gv.cs.tu-dortmund.de/downloads/publications/2004/pbg04.pdf)
 
-
+* GenZI: Zero-Shot 3D Human-Scene Interaction Generation  （ https://craigleili.github.io/projects/genzi/  ）
 
