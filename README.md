@@ -381,9 +381,6 @@ http://yiwenl.github.io/Sketches/， git：https://github.com/yiwenl， blog：h
 
 
 
-
-
-
 ## artist
 
 * Matt Taylor ( https://www.instagram.com/emty01/ )
@@ -489,6 +486,10 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 * Writing a custom geometry node for Blender    ( https://blog.exppad.com/article/writing-blender-geometry-node  )
 
 * Blender Python - Scripting Series  ( https://www.youtube.com/playlist?list=PLFtLHTf5bnym_wk4DcYIMq1DkjqB7kDb- )
+
+* Shaping Models With BMesh In Blender 2.90 ( https://behreajj.medium.com/shaping-models-with-bmesh-in-blender-2-9-2f4fcc889bf0 )
+
+* Meshes with Python & Blender: The 2D Grid  (  http://sinestesia.co/blog/tutorials/python-2d-grid/ )
 
 
 ## 3D AIGC
