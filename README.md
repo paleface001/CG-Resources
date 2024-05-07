@@ -525,3 +525,5 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * GenZI: Zero-Shot 3D Human-Scene Interaction Generation  （ https://craigleili.github.io/projects/genzi/  ）
 
+* https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/
+
