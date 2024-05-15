@@ -527,3 +527,7 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 
 * https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/
 
+## Mesh processing
+
+* vertex weld:   https://github.com/donmccurdy/glTF-Transform/blob/main/packages/functions/src/weld.ts  https://github.com/zeux/meshoptimizer  
+
