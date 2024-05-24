@@ -528,7 +528,16 @@ https://archive.blender.org/wiki/index.php/Dev:2.5/Source/Architecture/Window_Ma
 * https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/
 
 * playcanvas （ https://blog.playcanvas.com/compressing-gaussian-splats ）
-  
+
+* 自然语言编辑 gaussian (https://silent-chen.github.io/DGE/)
+
+* LOD gaussian (https://city-super.github.io/octree-gs/)
+
+* Control4D: Efficient 4D Portrait Editing with Text ( https://control4darxiv.github.io/?ref=aiartweekly )
+
+* PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics  ( https://xpandora.github.io/PhysGaussian/?ref=aiartweekly )
+
+* CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians  ( https://dekuliutesla.github.io/citygs/ )
 
 ## Mesh processing
 
